@@ -1,1 +1,14 @@
 C:\Workspace\C#\Arbor\Arbor\bin\Debug\Arbor.exe.config
+C:\Workspace\C#\Arbor\Arbor\obj\Debug\Arbor.csprojResolveAssemblyReference.cache
+C:\Workspace\C#\Arbor\Arbor\obj\Debug\MainWindow.g.cs
+C:\Workspace\C#\Arbor\Arbor\obj\Debug\App.g.cs
+C:\Workspace\C#\Arbor\Arbor\obj\Debug\Arbor_MarkupCompile.cache
+C:\Workspace\C#\Arbor\Arbor\obj\Debug\Arbor_MarkupCompile.lref
+C:\Workspace\C#\Arbor\Arbor\bin\Debug\Arbor.exe
+C:\Workspace\C#\Arbor\Arbor\bin\Debug\Arbor.pdb
+C:\Workspace\C#\Arbor\Arbor\obj\Debug\MainWindow.baml
+C:\Workspace\C#\Arbor\Arbor\obj\Debug\Arbor.g.resources
+C:\Workspace\C#\Arbor\Arbor\obj\Debug\Arbor.Properties.Resources.resources
+C:\Workspace\C#\Arbor\Arbor\obj\Debug\Arbor.csproj.GenerateResource.Cache
+C:\Workspace\C#\Arbor\Arbor\obj\Debug\Arbor.exe
+C:\Workspace\C#\Arbor\Arbor\obj\Debug\Arbor.pdb
