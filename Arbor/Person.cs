@@ -11,16 +11,16 @@ namespace Arbor
         private int _id;
         private string _name;
         private string _description;
-        private Person _mother;
-        private Person _father;
+        private int _mother;
+        private int _father;
 
-        public Person MyProperty
+        public int Father
         {
             get { return _father; }
             set { _father = value; }
         }
 
-        public Person Mother
+        public int Mother
         {
             get { return _mother; }
             set { _mother = value; }
@@ -43,17 +43,21 @@ namespace Arbor
             get { return _id; }
             set { _id = value; }
         }
-        public Person(int id,string name,string description):this(id,name,description,null,null)
+        public Person(int id,string name,string description):this(id,name,description,-1,-1)
         {
 
         }
-        public Person(int id, string name, string description,Person father,Person mother)
+        public Person(int id, string name, string description,int fatherId, int motherId)
         {
             _id = id;
             _name = name;
             _description = description;
-            _father = father;
-            _mother = mother;
+            _father = fatherId;
+            _mother = motherId;
+        }
+        public override string ToString()
+        {
+            return _name;
         }
     }
 }

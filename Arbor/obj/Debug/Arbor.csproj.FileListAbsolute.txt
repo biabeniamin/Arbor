@@ -12,3 +12,5 @@ C:\Workspace\C#\Arbor\Arbor\obj\Debug\Arbor.Properties.Resources.resources
 C:\Workspace\C#\Arbor\Arbor\obj\Debug\Arbor.csproj.GenerateResource.Cache
 C:\Workspace\C#\Arbor\Arbor\obj\Debug\Arbor.exe
 C:\Workspace\C#\Arbor\Arbor\obj\Debug\Arbor.pdb
+C:\Workspace\C#\Arbor\Arbor\obj\Debug\AddPerson.g.cs
+C:\Workspace\C#\Arbor\Arbor\obj\Debug\AddPerson.baml
